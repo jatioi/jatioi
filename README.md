@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a Video Editor who Aspires to be a Software Engineer<br>🌱 I’m currently learning web development using Ruby on Rails<br>
+🔭 In Creatives and Development <br>🌱 I’m currently learning web development using Ruby on Rails<br>
 
 
 ## 🌐 Socials:
