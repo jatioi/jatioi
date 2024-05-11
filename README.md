@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 In Creatives and Development <br>🌱 I’m currently learning web development using Ruby on Rails<br>
+🔭 In Creatives and Development <br>🌱 I’m currently in web development industry using Ruby on Rails<br>
 
 
 ## 🌐 Socials:
