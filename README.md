@@ -1,6 +1,6 @@
 # 💫 About Me:
-🔭 In Creatives and Development <br>🌱 I’m currently in web development industry using Ruby on Rails<br>
-Want to learn more!
+🔭 In Creatives and Development <br>🌱 **AI-Blockchain-Web**3 Enthusiast | Aspiring Builder | Web Developer <br>
+
 
 
 ## 🌐 Socials:
