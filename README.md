@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 In Creatives and Development <br>🌱 **AI-Blockchain-Web**3 Enthusiast | Aspiring Builder | Web Developer <br>
+🔭 In Creatives and Development | Aspiring Builder | Web Developer <br>
 
 
 
