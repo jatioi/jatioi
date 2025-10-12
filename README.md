@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 In Creatives and Development | Aspiring Builder | Web Developer <br>
+🔭 In Creatives and Project/Program Development | Aspiring Builder | Web Developer <br>
 
 
 
